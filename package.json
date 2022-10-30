@@ -1,16 +1,16 @@
 {
-"name": "supermarketspree",
-"theme": "supermarket spree",
-"version": "2.5.5",
-"description": "supermarket spree ทางเข้าเว็บบาคาร่าเว็บตรง คนเล่นเยอะ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"supermarket spree",
-"supermarket spree เครดิตฟรี",
-"supermarket spree ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/supermarketspree",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "supermarketspree",
+  "theme": "supermarket spree",
+  "version": "2.6.0",
+  "description": "supermarket spree ทางเข้าเว็บบาคาร่าเว็บตรง คนเล่นเยอะ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "supermarket spree",
+    "supermarket spree เครดิตฟรี",
+    "supermarket spree ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/supermarketspree",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
